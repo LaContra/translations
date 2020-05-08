@@ -50,5 +50,9 @@
     {
         "title": "Português do Brasil",
         "value": "pt-BR"
+    },
+    {
+        "title": "繁體中文 (Traditional Chinese)",
+        "value": "zh-TW"
     }
 ]
