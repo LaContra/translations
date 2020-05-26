@@ -52,6 +52,10 @@
         "value": "pt-BR"
     },
     {
+        "title": "Русский (Russian)",
+        "value": "ru"
+    },
+    {
         "title": "繁體中文 (Traditional Chinese)",
         "value": "zh-TW"
     }
